@@ -74,6 +74,6 @@ This AI-powered language translator allows users to input text, choose a source 
 ```
 4.Run the  Application
 ```bash
-python "AI_Language_Translator.py"
+python AI_Language_Translator.py
 ```
 
