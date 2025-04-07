@@ -75,6 +75,8 @@ This AI-powered language translator allows users to input text, choose a source 
 4.**Run the  Application**
 
  open the Jupyter Notebook 
+ 
  Locate and open the file AI_Language_Translator.ipynb
+ 
  Run the cells using Shift + Enter to start using the translator
 
