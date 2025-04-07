@@ -72,8 +72,9 @@ This AI-powered language translator allows users to input text, choose a source 
 ```bash
    pip install googletrans==4.0.0-rc1 gTTS playsound
 ```
-4.Run the  Application
-```bash
-python AI_Language_Translator.py
-```
+4.**Run the  Application**
+
+ open the Jupyter Notebook 
+ Locate and open the file AI_Language_Translator.ipynb
+ Run the cells using Shift + Enter to start using the translator
 
